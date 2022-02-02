@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="GameAccount" />
+        <module name="EU7TestNGSelenium" />
       </profile>
     </annotationProcessing>
   </component>
