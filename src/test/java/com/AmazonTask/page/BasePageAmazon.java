@@ -22,4 +22,6 @@ public abstract class BasePageAmazon {
 
     @FindBy(id="nav-search-submit-button")
     public WebElement searchButton;
+
+    System.out.println("Enes");
 }
